@@ -42,9 +42,11 @@ disable → testsigning=off, nointegritychecks=off
 
 ## Optional Flags
 
---auto-accept     Skips start and exit prompts.
+Skips start and exit prompts.
+--auto-accept
 
---auto-reboot     Automatically reboots after changing BCD state.
+Automatically reboots after changing BCD state.
+--auto-reboot
 
 ---
 
