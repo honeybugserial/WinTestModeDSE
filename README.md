@@ -35,6 +35,7 @@ script.exe --auto-reboot
 ## Modes
 
 enable  → testsigning=on,  nointegritychecks=on
+
 disable → testsigning=off, nointegritychecks=off
 
 ---
@@ -42,6 +43,7 @@ disable → testsigning=off, nointegritychecks=off
 ## Optional Flags
 
 --auto-accept     Skips start and exit prompts.
+
 --auto-reboot     Automatically reboots after changing BCD state.
 
 ---
