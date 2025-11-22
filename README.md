@@ -8,9 +8,8 @@ A PyInstaller build can be generated with automatic UAC elevation.
 
 ## Screenshots
 
-https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot_01.png
-
-https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot_02.png
+[![ScreenShot01](https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot_01.png)]
+[![ScreenShot02](https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot_02.png)]
 
 ------------------------------------------------------------
 
