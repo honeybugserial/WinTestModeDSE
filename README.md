@@ -21,9 +21,9 @@ pyinstaller --onefile  --uac-admin --icon=configuration.ico --add-data "configur
 
 ## Screenshots
 
-[![ScreenShot01](https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot_01.png)]
+![ScreenShot01](https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot_01.png)
 
-[![ScreenShot02](https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot02.png)]
+![ScreenShot02](https://github.com/honeybugserial/WinTestModeDSE/blob/main/ScreenShot02.png)
 
 ------------------------------------------------------------
 
