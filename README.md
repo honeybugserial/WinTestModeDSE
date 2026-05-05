@@ -4,6 +4,21 @@ This tool enables or disables Windows Test Mode and Driver Signature Enforcement
 
 A PyInstaller build can be generated with automatic UAC elevation.
 
+---
+
+## Update May 2026 Fixes:
+- Duplicate import ctypes removed
+- install() now called so rich tracebacks actually activate
+- MSIEXEC dead variable removed
+- Log file named correctly
+
+## Compile
+```
+pyinstaller --onefile  --uac-admin --icon=configuration.ico --add-data "configuration.ico;." winTestModeDSE-v1.1.py
+```
+
+---
+
 ------------------------------------------------------------
 
 ## Screenshots
